@@ -1,8 +1,8 @@
 // function getWeather(){
-// 	var apiKey = '4c9d75a08d543fa23beb9e7615ddaa05';
+// 	var apiKey = '0b90aadd1b744b0688752522242606';
 // 	var city = $('#BHOPAL').val();
 
-// 	$.get('https://home.openweathermap.org/api_keys')
+// 	$.get('http://api.weatherapi.com/v1/current.json?key=0b90aadd1b744b0688752522242606&q=Bangaluru&aqi=yes')
 // }
 
 $(document).ready function(){
